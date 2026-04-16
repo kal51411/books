@@ -1,0 +1,5 @@
+user_id,email,country,signup_ts,age,is_active
+u1,ALICE@example.com,us,2025-01-01T10:00:00Z,29,true
+u1,alice@example.com,US,2025-01-02T10:00:00Z,30,true
+u2,bad-email,USA,not-a-ts,999,yes
+u3,bob@example.com,ca,2025-01-05T09:00:00Z,,0
